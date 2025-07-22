@@ -1,0 +1,11 @@
+CustomerID,Age,Gender,Income,Membership,SpendingScore,target
+1001,25,Male,50000,Basic,39,0
+1002,34,Female,64000,Gold,81,1
+1003,45,Male,82000,Platinum,6,0
+1004,23,Female,32000,Basic,77,1
+1005,35,Female,,Silver,40,0
+1006,52,Male,74000,Gold,58,1
+1007,48,Female,55000,Silver,44,0
+1008,29,Male,41000,Basic,73,1
+1009,60,Female,90000,Platinum,30,0
+1010,31,,62000,Gold,56,1
